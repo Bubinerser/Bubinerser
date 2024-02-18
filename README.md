@@ -1,1 +1,1 @@
-![me](https://c.tenor.com/CBj2hnXx7IIAAAAd/tenor.gif)
+![me](https://cdn.discordapp.com/emojis/1205640906217226280.png)
