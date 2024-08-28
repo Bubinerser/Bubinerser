@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://x.com/bubinerser" target="_blank">
+  <a href="https://x.com/bubiier" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
 
